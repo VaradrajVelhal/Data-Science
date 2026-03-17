@@ -1,0 +1,11 @@
+P_ID,P_Name,Category,Qty_Sold,Unit_Price,Total_Sales,Order_Date,Region,Ship_Mode,Customer_Segment,Profit
+P101,Laptop,Electronics,5,55000,275000,10/01/2026,West,Standard Class,Consumer,35000
+P102,Smartphone,Electronics,8,20000,160000,12/01/2026,East,Second Class,Corporate,22000
+P103,Office Chair,Furniture,10,4500,45000,14/01/2026,South,Standard Class,Home Office,7000
+P104,Printer,Electronics,3,12000,36000,16/01/2026,North,First Class,Consumer,5000
+P105,Study Table,Furniture,4,7000,28000,18/01/2026,West,Same Day,Corporate,4000
+P106,Tablet,Electronics,6,30000,180000,20/01/2026,East,Standard Class,Consumer,25000
+P107,Bookshelf,Furniture,7,6500,45500,22/01/2026,South,Second Class,Home Office,6500
+P108,Headphones,Electronics,15,2500,37500,24/01/2026,North,Standard Class,Consumer,6000
+P109,Desk Lamp,Furniture,12,1500,18000,26/01/2026,West,First Class,Corporate,3000
+P110,Monitor,Electronics,5,18000,90000,28/01/2026,East,Same Day,Consumer,12000
